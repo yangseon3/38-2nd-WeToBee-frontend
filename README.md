@@ -1,4 +1,4 @@
-bbh# WeToBee
+# WeToBee
 
 - 프로젝트 사이트 -> **StubbyPlanner**
 - 스투비 플래너는 유렵 여행을 보다 쉽게 플랜을 기획 할 수 있고 또한 전문가의 플랜을 이용 할 수있는 사이트 입니다.
@@ -78,21 +78,21 @@ bbh# WeToBee
 
 - 소셜 로그인
 - 카카오 로그인 구현
-  ![Login](/public/images/%08SocailLogin.gif)
+  ![Login](public/images/%08SocailLogin.gif)
 
 ## Selling
 
 - 사용자가 만든 여행 플랜의 판매 등록
-  ![Selling](/public/images/MapCreate.gif)
+  ![Selling](public/images/MapCreate.gif)
 
-## Detail Page - Review Create & Delete
+## Detail - Review Create & Delete
 
 - 사용자가 만든 여행 플랜의 판매 등록
 - 구매한 플랜에 대해서 리뷰 기능
 - 사진업로드와 댓글입력이 가능 / 내가 올린 리뷰에 대해 삭제 가능)
 - 다른 사람이 올린 리뷰도 더보기를 클릭 할 때마다 4개씩 mount됨
 
-  ![Review](/public/images/ReviewCreateAndDelete.gif)
+  ![Review](public/images/ReviewCreateAndDelete.gif)
 
 ## Mypage - Review Like
 
@@ -100,7 +100,7 @@ bbh# WeToBee
 - 메뉴탭 각각에 좋아요 된 리뷰와 맵이 업로드됨
 - 로그인 성공 시 유저 정보를 받아와 이름과 포인트를 표시
 
-  ![Like](/public/images/Like.gif)
+  ![Like](public/images/Like.gif)
 
 ## Review - infinite scroll
 
@@ -108,4 +108,4 @@ bbh# WeToBee
 - 라이브러리를 사용하여 무한스크롤 기능을 구현( infinite scroll )
 - 댓글과 같이 올린 사진을 Reivew page에 사진만 업로드해서 좋아요 버튼을 누를 때 Mypage로 이동 ( 좋아요 기능 )
 
-  ![infinite scroll](/public/images/infinitescroll.gif)
+  ![infinite scroll](public/images/infinitescroll.gif)
